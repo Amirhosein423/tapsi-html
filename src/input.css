@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: "dana";
+    src: url("./fonts/dana-fanum-bold (1).woff2") format("woff2");
+
+}
+@font-face{
+    font-family: "dana";
+    src: url("./fonts/dana-fanum-light.woff2") format("woff2");
+
+}
+@font-face{
+    font-family: "dana";
+    src: url("./fonts/dana-fanum-medium.woff2") format("woff2");
+
+}
+@font-face{
+    font-family: "dana";
+    src: url("./fonts/dana-fanum-regular.woff2") format("woff2");
+
+}
+@font-face{
+    font-family: "iranyekanweblight";
+    src: url("./fonts/.woff2") format("woff2");
+
+}
+@font-face{
+    font-family: "iranyekanwebregular";
+    src: url("./fonts/iranyekanwebregular.woff2") format("woff2");
+
+}
+@font-face{
+    font-family: "robotoregular";
+    src: url("./fonts/robotoregular.woff2") format("woff2");
+
+}
